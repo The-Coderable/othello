@@ -35,7 +35,7 @@ function App(props) {
       {theme=="light"?<SunIcon/>:<MoonIcon/>}
     </div>
     <div className="unescapeLink">
-      <a href="https://coderable.me" target="_blank">Coderable</a>
+      <a  href="https://coderable.me" target="_blank">Coderable</a>
     </div>
   </div>);
 }
